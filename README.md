@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error handling scenario in Python. The `bug.py` file contains a function that divides 10 by an input variable. The function includes specific error handling for ZeroDivisionError and TypeError, along with a general Exception handling. The `bugSolution.py` file provides the same code with improved error handling and input validation.
